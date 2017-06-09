@@ -32,18 +32,22 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 
 Applications that use Flask:
 
+
+
 ### Sources
 
 * Official Python website: https://www.python.org/
 
-* Lynda Course called Learning Flash: https://www.lynda.com/Flask-tutorials/11121-0.html
+* Flask: http://flask.pocoo.org/
+
+* Lynda course called Learning Flash: https://www.lynda.com/Flask-tutorials/11121-0.html
 
 ### Installation
 
 1. open Terminal and run:
-2. brew install python
-3. pip install -U pip setuptools
-4. pip install virtualenv (Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.)
+2. **brew install python**
+3. **pip install -U pip setuptools**
+4. **pip install virtualenv** (Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.)
 
 ### Creating the Project Structure
 
