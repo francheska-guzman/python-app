@@ -65,6 +65,8 @@ Micro-framework are normally framework with little to no dependencies to externa
 	Cons 
 	* You will have to do more work by yourself
 	* Increase yourself the list of dependencies by adding plugins. 
+	
+It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. 
 
 ### Flask popularity
 
