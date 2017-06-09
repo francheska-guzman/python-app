@@ -9,6 +9,7 @@
 A widely used high-level interpreted programming language for general-purpose programming, created by Guido van Rossum  and first released in 1991.
 
 ![Rossum](./images/Rossum.jpg)
+![Python](./images/circus.jpg)
 
 ### Python has a design philosophy
 
