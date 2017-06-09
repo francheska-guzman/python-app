@@ -129,3 +129,5 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 ### Request-Response Cycle
 
 ![Request-Response Cycle](./images/reqrescycle.png)
+
+![Request-Response Cycle](./images/reqrescycle1.png)
