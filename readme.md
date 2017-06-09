@@ -82,9 +82,9 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 
 * [Lynda tutorial called Learning Flash](https://www.lynda.com/Flask-tutorials/11121-0.html)
 
-* [A tour of the differences between JavaScript and Python] (https://blog.glyphobet.net/essay/2557)
+* [A tour of the differences between JavaScript and Python](https://blog.glyphobet.net/essay/2557)
 
-* [Python Tutorial: if __name__ == '__main__'] (https://www.youtube.com/watch?v=sugvnHA7ElY)
+* [Python Tutorial: if __name__ == '__main__'](https://www.youtube.com/watch?v=sugvnHA7ElY)
 
 ### Installation
 
