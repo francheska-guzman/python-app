@@ -6,9 +6,13 @@
 
 ### About Flask
 
+![Ronacher](./images/ronacher.jpg)
+
 Flask was created by Armin Ronacher of Pocoo:
 
 "It came out of an April Fool's joke but proved popular enough to make into a serious application in its own right."
+
+![Flask Logo](./images/flask.png)
 
 Flask is a micro web framework written in Python, and is based on the Werkzeug toolkit and Jinja2 template engine, both of them Pocoo projects that were created.
 
@@ -41,6 +45,8 @@ Applications that use Flask:
 3. pip install -U pip setuptools
 4. pip install virtualenv
 
+	Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.
+
 ### Creating the Project Structure
 
 1. cd Desktop
@@ -48,6 +54,9 @@ Applications that use Flask:
 3. cd python_flask
 4. virtualenv venv
 5. source venv/bin/activate
+
+	Whenever you want to work on a project, you only have to activate the corresponding environment. 
+
 6. pip install Flask
 7. mkdir static
 8. cd static
