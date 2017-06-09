@@ -30,17 +30,15 @@ Micro-framework are normally framework with little to no dependencies to externa
 
 Despite the lack of a major release, Flask has become extremely popular among Python enthusiasts. As of mid 2016, it was the most popular Python web development framework on GitHub.
 
-Applications that use Flask:
-
-
+[Click here to see applications powered by Flask!](http://flask.pocoo.org/community/poweredby/)
 
 ### Sources
 
-* Official Python website: https://www.python.org/
+* [Official Python website](https://www.python.org/)
 
-* Flask: http://flask.pocoo.org/
+* [Flask website](http://flask.pocoo.org/)
 
-* Lynda course called Learning Flash: https://www.lynda.com/Flask-tutorials/11121-0.html
+* [Lynda tutorial called Learning Flash](https://www.lynda.com/Flask-tutorials/11121-0.html)
 
 ### Installation
 
