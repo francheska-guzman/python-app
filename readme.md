@@ -47,7 +47,7 @@ Applications that use Flask:
 
 	Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.
 
-### Creating the Project Structure
+### Project Structure
 
 1. cd Desktop
 2. mkdir python_flask
@@ -61,14 +61,22 @@ Applications that use Flask:
 7. mkdir static
 8. cd static
 9. mkdir css
-10. mkdir js
-11. mkdir img
+10. cd css
+11. touch main.css
 12. cd ..
-13. mkdir templates
-14. touch routes.py
-15. touch readme.md
-16. python routes.py
-17. open the browser and go to localhost:5000
+13. mkdir js
+14. mkdir img
+15. cd ..
+16. mkdir templates
+17. cd templates
+18. touch about.html
+19. touch index.html
+20. touch layout.html
+21. cd ..
+22. touch routes.py
+23. touch readme.md
+24. python routes.py
+25. open the browser and go to localhost:5000
 
 At the end, your folder should look like this:
 
