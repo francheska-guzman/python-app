@@ -1,6 +1,6 @@
-# Python and Flask
+###### An introduction by Esraa and Francheska
 
-## An introduction by Esraa and Francheska
+# Python and Flask
 
 ### About Python
 
@@ -36,30 +36,30 @@ Applications that use Flask:
 
 ### Installation
 
-1. brew install python
-2. pip install -U pip setuptools
-3. pip install virtualenv
-3. open Terminal
-4. cd Desktop
-5. mkdir python_flask
-6. cd python_flask
-7. virtualenv venv
-8. source venv/bin/activate
-9. pip install Flask
+1. open Terminal and run:
+2. brew install python
+3. pip install -U pip setuptools
+4. pip install virtualenv
 
 ### Creating the Project Structure
 
-1. Inside the folder we already created (python_flask), run: "mkdir static".
-2. cd static
-3. mkdir css
-4. mkdir js
-5. mkdir img
-6. cd ..
-7. mkdir templates
-8. touch routes.py
-9. touch readme.md
-10. python routes.py
-11. open the browser and go to localhost:5000
+1. cd Desktop
+2. mkdir python_flask
+3. cd python_flask
+4. virtualenv venv
+5. source venv/bin/activate
+6. pip install Flask
+7. mkdir static
+8. cd static
+9. mkdir css
+10. mkdir js
+11. mkdir img
+12. cd ..
+13. mkdir templates
+14. touch routes.py
+15. touch readme.md
+16. python routes.py
+17. open the browser and go to localhost:5000
 
 At the end, your folder should look like this:
 
