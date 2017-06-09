@@ -6,7 +6,8 @@
 
 ![Python](./images/python.jpg)
 
-a widely used high-level interpreted programming language for general-purpose programming, created by Guido van Rossum  and first released in 1991.
+A widely used high-level interpreted programming language for general-purpose programming, created by Guido van Rossum  and first released in 1991.
+
 ![Rossum](./images/Rossum.jpg)
 
 ### Python has a design philosophy
@@ -67,6 +68,10 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 * [Flask website](http://flask.pocoo.org/)
 
 * [Lynda tutorial called Learning Flash](https://www.lynda.com/Flask-tutorials/11121-0.html)
+
+* [A tour of the differences between JavaScript and Python] (https://blog.glyphobet.net/essay/2557)
+
+* [Python Tutorial: if __name__ == '__main__'] (https://www.youtube.com/watch?v=sugvnHA7ElY)
 
 ### Installation
 

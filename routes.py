@@ -6,12 +6,14 @@ app = Flask(__name__)
 
 # map the url "/" to the function "index"
 @app.route("/")
+# defining function
 def index():
   # return the index.html template
   return render_template("index.html")
 
 # map the url "/about" to the function "about"
 @app.route("/about")
+# defining function
 def about():
   # return the about.html template
   return render_template("about.html")
