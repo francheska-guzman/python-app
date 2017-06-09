@@ -43,9 +43,7 @@ Applications that use Flask:
 1. open Terminal and run:
 2. brew install python
 3. pip install -U pip setuptools
-4. pip install virtualenv
-
-	Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.
+4. pip install virtualenv (Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.)
 
 ### Project Structure
 
@@ -53,10 +51,8 @@ Applications that use Flask:
 2. mkdir python_flask
 3. cd python_flask
 4. virtualenv venv
-5. source venv/bin/activate
-
-	Whenever you want to work on a project, you only have to activate the corresponding environment. 
-
+5. source venv/bin/activate 
+	(Whenever you want to work on a project, you only have to activate the corresponding environment.) 
 6. pip install Flask
 7. mkdir static
 8. cd static
@@ -78,7 +74,7 @@ Applications that use Flask:
 24. python routes.py
 25. open the browser and go to localhost:5000
 
-At the end, your folder should look like this:
+##### At the end, your folder should look like this:
 
 ![Folder Structure](./images/folderstructure.png)
 
