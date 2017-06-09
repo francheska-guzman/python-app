@@ -41,7 +41,7 @@ Flask was created by Armin Ronacher of Pocoo:
 
 "It came out of an April Fool's joke but proved popular enough to make into a serious application in its own right."
 
-Flask is a micro web framework written in Python, and is based on the Werkzeug toolkit and Jinja2 template engine, both of them Pocoo projects that were created.
+Flask is a micro web framework written in Python, and is based on the Werkzeug toolkit (a utility library for Python) and Jinja2 (a template engine for Python), both of them Pocoo projects that were created.
 
 Micro-framework are normally framework with little to no dependencies to external libraries or particular tools. This has pros and cons:
 
