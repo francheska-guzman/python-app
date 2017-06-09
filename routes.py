@@ -8,14 +8,14 @@ app = Flask(__name__)
 @app.route("/")
 # defining function
 def index():
-  # return the index.html template
+  # render the index.html from the templates folder.
   return render_template("index.html")
 
 # map the url "/about" to the function "about"
 @app.route("/about")
 # defining function
 def about():
-  # return the about.html template
+  # render the about.html from the templates folder.
   return render_template("about.html")
 
 # __name__ is a special Python variable that holds the name 
