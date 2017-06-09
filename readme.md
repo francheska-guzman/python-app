@@ -9,7 +9,19 @@
 A widely used high-level interpreted programming language for general-purpose programming, created by Guido van Rossum  and first released in 1991.
 
 ![Rossum](./images/Rossum.jpg)
+
+Python's name is derived from the television series Monty Python's Flying Circus, and it is common to use Monty Python references in example code.
+
 ![Python](./images/circus.jpg)
+
+Python is a multi-paradigm programming language: object-oriented programming and structured programming are fully supported.
+
+Python uses dynamic typing and a mix of reference counting and a cycle-detecting garbage collector for memory management. An important feature of Python is dynamic name resolution (late binding), which binds method and variable names during program execution.
+
+The design of Python offers some support for functional programming in the Lisp tradition. The language has map(), reduce() and filter() functions; list comprehensions, dictionaries, and sets.
+
+
+
 
 ### Python has a design philosophy
 
