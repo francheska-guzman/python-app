@@ -45,34 +45,34 @@ Applications that use Flask:
 3. pip install -U pip setuptools
 4. pip install virtualenv (Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.)
 
-### Project Structure
+### Creating the Project Structure
 
 1. cd Desktop
 2. mkdir python_flask
 3. cd python_flask
-4. virtualenv venv
-5. source venv/bin/activate 
+4. **virtualenv venv**
+5. **source venv/bin/activate** 
 	(Whenever you want to work on a project, you only have to activate the corresponding environment.) 
-6. pip install Flask
+6. **pip install Flask**
 7. mkdir static
 8. cd static
 9. mkdir css
 10. cd css
-11. touch main.css
+11. touch main.css (most of the code provided by Lynda tutorial)
 12. cd ..
 13. mkdir js
 14. mkdir img
 15. cd ..
 16. mkdir templates
 17. cd templates
-18. touch about.html
-19. touch index.html
-20. touch layout.html
+18. touch about.html (most of the code provided by Lynda tutorial)
+19. touch index.html (most of the code provided by Lynda tutorial)
+20. touch layout.html (most of the code provided by Lynda tutorial)
 21. cd ..
-22. touch routes.py
+22. touch routes.py (most of the code provided by Lynda tutorial)
 23. touch readme.md
-24. python routes.py
-25. open the browser and go to localhost:5000
+24. **python routes.py**
+25. **open the browser and go to localhost:5000**
 
 ##### At the end, your folder should look like this:
 
