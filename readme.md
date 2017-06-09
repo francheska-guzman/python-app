@@ -6,13 +6,11 @@
 
 ### About Flask
 
-![Ronacher](./images/ronacher.jpg)
-
 Flask was created by Armin Ronacher of Pocoo:
 
-"It came out of an April Fool's joke but proved popular enough to make into a serious application in its own right."
+![Ronacher](./images/ronacher.jpg)
 
-![Flask Logo](./images/flask.png)
+"It came out of an April Fool's joke but proved popular enough to make into a serious application in its own right."
 
 Flask is a micro web framework written in Python, and is based on the Werkzeug toolkit and Jinja2 template engine, both of them Pocoo projects that were created.
 
@@ -27,6 +25,8 @@ Micro-framework are normally framework with little to no dependencies to externa
 	* Increase yourself the list of dependencies by adding plugins. 
 
 ### Flask popularity
+
+![Flask Logo](./images/flask.png)
 
 Despite the lack of a major release, Flask has become extremely popular among Python enthusiasts. As of mid 2016, it was the most popular Python web development framework on GitHub.
 
