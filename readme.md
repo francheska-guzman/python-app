@@ -28,6 +28,8 @@ a widely used high-level interpreted programming language for general-purpose pr
 ![example](./images/4.png)
 ![example](./images/5.png)
 
+[More examples](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+
 The python file extension is: .py
 
 ### About Flask
