@@ -2,9 +2,9 @@ Esraa & Francheska
 
 # Python and Flask
 
-### What is Python?
+### About Python
 
-### What is Flask?
+### About Flask
 
 ### Sources
 
@@ -45,3 +45,4 @@ At the end, your folder should look like this:
 
 ### Request-Response Cycle
 
+![Request-Response Cycle](./images/reqrescycle.png)
