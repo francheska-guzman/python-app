@@ -18,5 +18,10 @@ def about():
   # return the about.html template
   return render_template("about.html")
 
+# __name__ is a special Python variable that holds the name 
+# of the module currently being executed, except when the module 
+# is started from the command line, in which case it becomes "__main__".
+# When we user run "python routes.py", basically match if __main__ == __main__
+# and run the app.
 if __name__ == "__main__":
   app.run(debug=True)
