@@ -1,6 +1,9 @@
-###### An introduction by Esraa and Francheska
-
 # Python and Flask
+
+### Team
+
+* Esraa Alaarag
+* Francheska Guzman
 
 ### About Python
 
