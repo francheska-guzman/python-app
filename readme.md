@@ -1,11 +1,23 @@
 # Python and Flask
 
-### Team
+### Table of Contents
 
-* Esraa Alaarag
-* Francheska Guzman
+1. [About the project](#about)
+2. [About Python](#about-python)
+3. [Python has a design philosophy](#python-philosophy)
+4. [About Flask](#about-flask)
+5. [Flask popularity](#flask-popularity)
+6. [Request-Response Cycle](#cycle)
+7. [Sources](#sources)
+8. [Installation](#installation)
 
-### About Python
+## <a id="about">About the project</a>
+
+General Assembly's Web Development Immersive <br />
+Group Homework <br />
+Developed by Esraa Alaarag and Francheska Guzman.
+
+## <a id="about-python">About Python</a>
 
 ![Python](./images/python.jpg)
 
@@ -23,10 +35,7 @@ Python uses dynamic typing and a mix of reference counting and a cycle-detecting
 
 The design of Python offers some support for functional programming in the Lisp tradition. The language has map(), reduce() and filter() functions; list comprehensions, dictionaries, and sets.
 
-
-
-
-### Python has a design philosophy
+## <a id="python-philosophy">Python has a design philosophy</a>
 
 - Beautiful is better than ugly
 
@@ -38,7 +47,7 @@ The design of Python offers some support for functional programming in the Lisp 
 
 - Readability counts
 
-### Examples
+##### Examples
 ![example](./images/1.png)
 ![example](./images/2.png)
 ![example](./images/3.png)
@@ -49,7 +58,7 @@ The design of Python offers some support for functional programming in the Lisp 
 
 The python file extension is: .py
 
-### About Flask
+## <a id="about-flask">About Flask</a>
 
 Flask was created by Armin Ronacher of Pocoo:
 
@@ -71,7 +80,7 @@ Micro-framework are normally framework with little to no dependencies to externa
 	
 It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. 
 
-### Flask popularity
+## <a id="flask-popularity">Flask popularity</a>
 
 ![Flask Logo](./images/flask.png)
 
@@ -79,7 +88,13 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 
 [Click here to see applications powered by Flask.](http://flask.pocoo.org/community/poweredby/)
 
-### Sources
+## <a id="cycle">Request-Response Cycle</a>
+
+![Request-Response Cycle](./images/reqrescycle.png)
+
+![Request-Response Cycle](./images/reqrescycle1.png)
+
+## <a id="sources">Sources</a>
 
 * [Official Python website](https://www.python.org/)
 
@@ -91,48 +106,9 @@ Despite the lack of a major release, Flask has become extremely popular among Py
 
 * [Python Tutorial: if __name__ == '__main__'](https://www.youtube.com/watch?v=sugvnHA7ElY)
 
-### Installation
+## <a id="installation">Installation</a>
 
 1. open Terminal and run:
 2. **brew install python**
 3. **pip install -U pip setuptools**
 4. **pip install virtualenv** (Virtualenv enables multiple side-by-side installations of Python, one for each project. It doesn’t actually install separate copies of Python, but it does provide a clever way to keep different project environments isolated.)
-
-### Creating the Project Structure
-
-1. cd Desktop
-2. mkdir python_flask
-3. cd python_flask
-4. **virtualenv venv**
-5. **source venv/bin/activate** 
-	(Whenever you want to work on a project, you only have to activate the corresponding environment.) 
-6. **pip install Flask**
-7. mkdir static
-8. cd static
-9. mkdir css
-10. cd css
-11. touch main.css (most of the code provided by Lynda tutorial)
-12. cd ..
-13. mkdir js
-14. mkdir img
-15. cd ..
-16. mkdir templates
-17. cd templates
-18. touch about.html (most of the code provided by Lynda tutorial)
-19. touch index.html (most of the code provided by Lynda tutorial)
-20. touch layout.html (most of the code provided by Lynda tutorial)
-21. cd ..
-22. touch routes.py (most of the code provided by Lynda tutorial)
-23. touch readme.md
-24. **python routes.py**
-25. **open the browser and go to localhost:5000**
-
-##### At the end, your folder should look like this:
-
-![Folder Structure](./images/folderstructure.png)
-
-### Request-Response Cycle
-
-![Request-Response Cycle](./images/reqrescycle.png)
-
-![Request-Response Cycle](./images/reqrescycle1.png)
